@@ -7,6 +7,6 @@ public class Main{
             bonus = addend / 100;
     int finalBalance = initialBalance + addend + bonus;
     System.out.println("итоговый баланс: " + finalBalance);
-    System.out.println("бонус: " + bonus);;
+    System.out.println("бонус: " + bonus);
     }
 }
