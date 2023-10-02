@@ -5,8 +5,8 @@ public class Main{
         int bonus = 0;
         if (addend > 1000)
             bonus = addend / 100;
-    int finalBalance = initialBalance + addend + bonus;
-    System.out.println("итоговый баланс: " + finalBalance);
-    System.out.println("бонус: " + bonus);
+        int finalBalance = initialBalance + addend + bonus;
+        System.out.println("итоговый баланс: " + finalBalance);
+        System.out.println("бонус: " + bonus);
     }
 }
