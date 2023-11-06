@@ -1,6 +1,6 @@
-public class Main{
+public class Main {
     public static void main(String[] args) {
-        int initialBalance =100;
+        int initialBalance = 100;
         int addend = 1200;
         int bonus = 0;
         if (addend > 1000) {
